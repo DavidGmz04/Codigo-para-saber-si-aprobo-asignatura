@@ -1,0 +1,8 @@
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\bin\Debug\U2AD1.exe.config
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\bin\Debug\U2AD1.exe
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\bin\Debug\U2AD1.pdb
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\obj\Debug\U2AD1.csproj.AssemblyReference.cache
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\obj\Debug\U2AD1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\obj\Debug\U2AD1.csproj.CoreCompileInputs.cache
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\obj\Debug\U2AD1.exe
+C:\Users\ALFREDO GOMEZ\source\repos\U2AD1\obj\Debug\U2AD1.pdb
